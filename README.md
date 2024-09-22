@@ -1,3 +1,3 @@
-# go-developer-roadmap
+# GO Developer Roadmap
 
 ![go developer roadmap](./roadmap.png)
